@@ -62,10 +62,6 @@ YouSee.prototype = {
 
         }.bind(this));
 
-    },
-
-    setAuth: function(authData) {
-        this.settings.auth = authData
     }
 
 };
