@@ -1,6 +1,6 @@
 {
-  "name": "yousee.js",
-  "version": "1.0.0",
+  "name": "yousee",
+  "version": "1.0.1",
   "description": "API client for danish cable provider YouSee",
   "main": "yousee.js",
   "scripts": {
