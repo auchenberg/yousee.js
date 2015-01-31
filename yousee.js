@@ -14,7 +14,7 @@ var endpoints = [
     'get livetv/popularchannels',
     'get livetv/allowed_channels',
     'get livetv/suggested_channels',
-    'get livetv/channel',
+    'get livetv/channel/:id',
     'get livetv/streamurl'
 ];
 
